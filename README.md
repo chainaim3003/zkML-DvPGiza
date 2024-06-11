@@ -32,15 +32,13 @@ The video is available at :
 https://www.youtube.com/watch?v=nmmOK583990
 
 #Presentation deck :
-https://github.com/
-
 https://github.com/chainaim3003/zkML-DvPGiza
 
 #HOW TO RUN zK-DvP application(testnet)
 
-Follow the GIZA processses to install the models, endpoints and agents
-
-Start the application by running start-streamlit
+  Follow the steps to install GIZA the models, endpoints and agents
+  Start the application by running start-streamlit 
+  Interact with the application opening up in the Browser. Check the transactions in the blockchain Explorers.
 
 Sincere thanks to Giza/Encode teams and fellow hackers.
 
